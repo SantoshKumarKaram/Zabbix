@@ -10,6 +10,7 @@ Zabbix is an enterprise-class open-source monitoring solution designed to monito
 Zabbix 7.0 LTS (Long-Term Support) introduces significant enhancements in usability, performance, and functionality, making it easier than ever to implement advanced monitoring solutions.
 
 **Repository Overview**
+
 This repository is structured to provide you with ready-to-use configurations, templates, scripts, and documentation to implement various monitoring solutions using Zabbix 7.0 LTS. It includes:
 
 Pre-configured Templates : Ready-to-import Zabbix templates for monitoring specific services, applications, and hardware.
