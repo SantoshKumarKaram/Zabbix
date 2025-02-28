@@ -5,6 +5,7 @@ Welcome to the Zabbix 7.0 LTS Monitoring Solutions repository! This repository i
 Whether you're a system administrator, DevOps engineer, or IT enthusiast, this repository will help you harness the full potential of Zabbix to monitor your infrastructure, applications, and services effectively.
 
 **About Zabbix**
+
 Zabbix is an enterprise-class open-source monitoring solution designed to monitor and track the performance and availability of IT infrastructure components such as servers, networks, databases, applications, and cloud environments. With its robust feature set, scalability, and flexibility, Zabbix has become a go-to tool for organizations of all sizes.
 
 Zabbix 7.0 LTS (Long-Term Support) introduces significant enhancements in usability, performance, and functionality, making it easier than ever to implement advanced monitoring solutions.
